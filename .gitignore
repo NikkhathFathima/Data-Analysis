@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.db
+*.sqlite3
+.DS_Store
+
+# Logs & test files
+*.log
+test_*.py
+inspect_excel.py
+create_dataset.py
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# IDE
+.vscode/
+.idea/
